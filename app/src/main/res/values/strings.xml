@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase18 - CRUD</string>
+    <string name="nombre_label">Nombre</string>
+    <string name="apellido_label">Apellido</string>
+    <string name="edad_label">Edad</string>
+    <string name="sexo_label">Sexo</string>
+    <string name="table_title">Usuarios</string>
+</resources>
